@@ -11,5 +11,6 @@
   },
   "spm": {
     "main": "./animate.css"
-  }
+  },
+  "repository": "https://github.com/robinbullocks4rb/animate.css.git"
 }
