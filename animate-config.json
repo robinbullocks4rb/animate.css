@@ -40,15 +40,15 @@
   },
 
   "fading_exits": {
-    "fadeOut": true,
-    "fadeOutDown": true,
-    "fadeOutDownBig": true,
-    "fadeOutLeft": true,
+    "fadeOut": false,
+    "fadeOutDown": false,
+    "fadeOutDownBig": false,
+    "fadeOutLeft": false,
     "fadeOutLeftBig": true,
-    "fadeOutRight": true,
-    "fadeOutRightBig": true,
-    "fadeOutUp": true,
-    "fadeOutUpBig": true
+    "fadeOutRight": false,
+    "fadeOutRightBig": false,
+    "fadeOutUp": false,
+    "fadeOutUpBig": false
   },
 
   "flippers": {
